@@ -1,5 +1,5 @@
 # Credit_Risk_Resampling
-Module 12 Challnege
+
 ## Overview of the Analysis
 
 Credit risk poses a classification problem for machine learning.The problem of credit risk presents a classification challenge for machine learning, largely due to the unequal distribution of healthy loans compared to risky loans. In this analysis, we aim to address this issue by training and evaluating models with imbalanced classes. Specifically, we use a logistic regression model to resample the data, using the RandomOverSampler module from the imbalanced-learn library, and compare two versions of the dataset.
